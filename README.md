@@ -1,5 +1,15 @@
 # Pelapela - Japanese Learning Network
 
+## Research Paper
+
+[**Team 21 – PelaPela: Data Informed Language Learning**](docs/research-paper.md)
+
+The original project report covers the research motivation, Japanese NLP and data processing pipeline, knowledge graph construction, evaluation results, ethical considerations, and future work on retrieval-augmented generation and domain-specific language models.
+
+[Original report with figures (Google Docs)](https://docs.google.com/document/d/1kSuSfKDai4AaOQ3S8uhexfCstIUu_LJhNv4zgUPlP58/edit)
+
+---
+
 ## Quick Start - Launch the Network
 
 To visualize the PelaPela  network:
